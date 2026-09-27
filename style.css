@@ -1,0 +1,9 @@
+:root { --ink:#131a15; --paper:#f6f3ea; --muted:#5d645f; --forest:#2f6b4f; }
+@media (prefers-color-scheme: dark) { :root { --ink:#eef0ea; --paper:#131a15; --muted:#a9b0aa; --forest:#7cc3a0; } }
+body { margin:0; background:var(--paper); color:var(--ink); font:16px/1.65 -apple-system, "PingFang SC", "Helvetica Neue", sans-serif; }
+main { max-width:720px; margin:0 auto; padding:40px 16px 64px; }
+h1 { font-size:30px; letter-spacing:.02em; margin:0 0 4px; }
+h2 { font-size:19px; margin:32px 0 8px; }
+p, li { color:var(--ink); } .muted { color:var(--muted); font-size:14px; }
+a { color:var(--forest); } hr { border:0; border-top:1px solid color-mix(in srgb, var(--ink) 15%, transparent); margin:40px 0; }
+nav a { margin-right:16px; }
