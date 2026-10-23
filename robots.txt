@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://archersmind.github.io/freesnap/sitemap.xml
