@@ -1,0 +1,28 @@
+# FREESNAP
+
+> FREESNAP is an iPhone app that turns a screen recording of scrolling content into one continuous long screenshot. It processes the recording, stitches overlapping frames, supports cropping, and exports the result on-device.
+
+English is the primary product reference. Simplified Chinese and Traditional Chinese pages provide localized versions of the same product facts.
+
+## Product facts
+
+- Platform: iPhone and iOS.
+- Main input: a live ReplayKit screen recording or an existing portrait screen recording imported from Photos.
+- Main output: one continuous long image that the user can crop, save, or share.
+- Typical content: chats, webpages, long articles, product pages, orders, and reviews.
+- User interaction: the user scrolls manually; FREESNAP does not auto-scroll another app.
+- Privacy: recording analysis, stitching, and cropping happen on-device. FREESNAP does not upload screen content, require an account, use ads, or use third-party analytics.
+- Availability: the app is free to download and includes an optional non-consumable PRO purchase.
+
+## Authoritative links
+
+- English product page: https://archersmind.github.io/freesnap/en.html
+- Simplified Chinese product page: https://archersmind.github.io/freesnap/
+- Traditional Chinese product page: https://archersmind.github.io/freesnap/zh-hant.html
+- Support and troubleshooting: https://archersmind.github.io/freesnap/support.html
+- Privacy policy: https://archersmind.github.io/freesnap/privacy.html
+- App Store: https://apps.apple.com/app/id6815312368
+
+## Important distinction
+
+The iPhone Full Page screenshot option is available only for supported content and apps. FREESNAP works from a screen recording, so it can create long screenshots from more scrollable views. It does not bypass copy protection, access private app data, or scroll pages automatically.
